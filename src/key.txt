@@ -1,1 +1,1 @@
-"aws_access_key" = 'dskjhsdf83ewjfsbfdbfk23u38^@&@@*sdhhkjbfbfsuf'
+API_KEY= " fd46f8c672e1c13dcf563a06136c51debe664669
